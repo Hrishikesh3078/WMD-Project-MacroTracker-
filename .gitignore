@@ -1,0 +1,28 @@
+# Build results and installed packages
+node_modules/
+dist/
+build/
+
+# Backend build output and saved records
+backend/srams.jar
+backend/data/
+
+# Flutter
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/build/
+mobile/android/
+mobile/ios/
+mobile/windows/
+mobile/linux/
+mobile/macos/
+mobile/web/
+mobile/.idea/
+
+# Editors and system files
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+desktop.ini
